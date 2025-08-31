@@ -27,18 +27,29 @@ Organized by AI Summer of Code (AISOC)
  - Mathematical Methods in Machine Learning II
  - Introduction to Empirical Risk Minimization
 
-### Week 4-5: 17-23 August
- - LLM & RAG Evaluation
- - Regression and Classification Deep Dive
- - Machine Learning Experiment Design
- - Calibrating Models with Conformal Prediction
- - Unsupervised Learning Deep Dive
+### Week 4: 24-31 August
+ - Mathematical Methods in Machine Learning II (cont'd)
+ 
+### Week 5: 31 August - 6 September 
+ - AI Engineering - Designing Machine Learning Systems
+ - Machine Learning Experiment Design (AISOC Workshop)
+ - Feature Engineering & Selection (AISOC Workshop)
+ - Model Evaluation (AISOC Workshop)
+ - Model Finetuning & Selection (AISOC Workshop)
 
- - Deep Learning
+ ### Week 6: 7-13 September
+ - Introduction to AI Governance
+ - AI Governance: Methods & Techniques
+ - Regression Deep Dive (AISOC Workshop)
+ - Classification Deep Dive (AISOC Workshop)
+ - Calibrating Models with Conformal Prediction (AISOC Workshop)
+ - Data Engineering for ML Systems (Tentative)
+ 
+ ### Week 7: 14-20 September
+ - Model Interpretability (AISOC Workshop)
+ - Unsupervised Learning Deep Dive (AISOC Workshop)
+ - Neural Networks and Deep Learning (AISOC Workshop)
 
-### Week 6-7
- - Feature Engineering & Selection
- - Model Evaluation, Finetuning & Selection
+ - LLM & RAG Evaluation 
  - Introduction to Machine Learning Systems
- - ML Engineering: Designing ML Systems
  - Practical Challenges in Machine Learning
