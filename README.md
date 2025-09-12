@@ -49,7 +49,7 @@ Organized by AI Summer of Code (AISOC)
  - Neural Networks and Deep Learning (AISOC Workshop)
  - Calibrating Models with Conformal Prediction (AISOC Workshop)
 
-
+### Week 8
  - AI Governance: Methods & Techniques
  - Data Engineering for ML Systems (Tentative)
  - LLM & RAG Evaluation 
