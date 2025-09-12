@@ -35,21 +35,23 @@ Organized by AI Summer of Code (AISOC)
  - Machine Learning Experiment Design (AISOC Workshop)
  - Feature Engineering & Selection (AISOC Workshop)
  - Model Evaluation (AISOC Workshop)
- - Model Finetuning & Selection (AISOC Workshop)
 
  ### Week 6: 7-13 September
- - Introduction to AI Governance
- - AI Governance: Methods & Techniques
  - Regression Deep Dive (AISOC Workshop)
- - Classification Deep Dive (AISOC Workshop)
- - Calibrating Models with Conformal Prediction (AISOC Workshop)
- - Data Engineering for ML Systems (Tentative)
+ - Fundamentals of High Performance AI Engineering
+ - Model Finetuning & Selection (AISOC Workshop)
  
  ### Week 7: 14-20 September
- - Model Interpretability (AISOC Workshop)
+ - Introduction to AI Governance
  - Unsupervised Learning Deep Dive (AISOC Workshop)
+ - Introduction to Model Interpretability (AISOC Workshop)
+ - Classification Deep Dive (AISOC Workshop)
  - Neural Networks and Deep Learning (AISOC Workshop)
+ - Calibrating Models with Conformal Prediction (AISOC Workshop)
 
+
+ - AI Governance: Methods & Techniques
+ - Data Engineering for ML Systems (Tentative)
  - LLM & RAG Evaluation 
  - Introduction to Machine Learning Systems
  - Practical Challenges in Machine Learning
